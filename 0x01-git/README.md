@@ -1,3 +1,2 @@
-“my second commit”
+UPDATED README “my second commit”
 “My personal work”
-“How to be up to date in git”
